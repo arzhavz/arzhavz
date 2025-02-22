@@ -13,8 +13,8 @@ Readme MD itu siapanya Mahfud MD?
 </div>
 
 ```sh
-> echo "Hello, I'm Sandy Pratama👋"
-> echo "Currently, I'm studying Indonesian literature at Universitas Sebelas Maret🌟"
+> echo "Hello, I'm Sandy👋"
+> echo "Currently, I'm studying Indonesian literature at Sebelas Maret University🌟"
 > echo "I love writing, such as poetry, light novels, and even songs📄"
 > echo "Moreover, I'm passionate about coding🖥️, especially in the Python language🐍"
 > echo "Feel free to give my repos a star if you like them⭐️"
