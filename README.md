@@ -5,7 +5,7 @@ Readme MD itu siapanya Mahfud MD?
 <div>
     <p align="center">
         <img
-            src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=F762E0&center=true&vCenter=true&width=435&lines=Hello+there!;I'm+a+writer+and+developer+%3E_;Readme+MD+itu+siapanya+Mahfud+MD?"
+            src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=F762E0&center=true&vCenter=true&width=435&lines=Hello+there!;I'm+a+writer+and+developer+%3E_;+Readme+MD+itu+siapanya+Mahfud+MD?"
             width="auto"
             height="auto"
         />
