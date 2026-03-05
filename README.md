@@ -28,9 +28,6 @@ Readme MD itu siapanya Mahfud MD?
             height="auto"
         />
     </p>
-    <p align="center">
-        <img src="https://profile-counter.glitch.me/arzhavz/count.svg" alt="Views" /> 
-    </p>
 </div>
 
 <div align="center">
@@ -39,29 +36,6 @@ Readme MD itu siapanya Mahfud MD?
     <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 </div>
-
-<div align="center">
-    <h2>My GitHub Stats</h2>
-    <p>
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzhavz&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000"
-            alt="Langs"
-        />
-    </p>
-    <p>
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=arzhavz&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-            alt="Stats"
-        />
-    </p>
-    <p>
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com?user=arzhavz&theme=cobalt"
-            alt="Streak"
-        />
-    </p>
-</div>
-
 
 <!--
 **arzhavz/arzhavz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
